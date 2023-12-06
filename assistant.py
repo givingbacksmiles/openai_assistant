@@ -16,7 +16,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)  # Replace with your actual API key
 #choose a model
 model = "gpt-3.5-turbo-1106"
 
-# choose your assistant
+# choose your assistant (replace with your Assistant's ID)
 assistant_id = "asst_2wkyPuCP1sTaFitYHru8NgkP"
 
 # or... create a new assistant
