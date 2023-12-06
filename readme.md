@@ -13,9 +13,14 @@ This project provides a way to interface with the OpenAI Assistant API.
 
 <!-- add instructions -->
 ### Setup
+
+Ensure you have Python 3.6 or higher installed.
+
+In your project directory run: `pip install -r requirements.txt`
+
 In order to use this, please first get your own OpenAI API Key.
 
-Once you have gotten your API key, create a .evn file and place it in there just like in the `.env-example` file.
+Once you have gotten your API key, create a .evn file and place it in there just like in the **.env-example** file.
 
 [YouTube Walkthrough Video](https://youtu.be/mQATGbI-kmg)
 
